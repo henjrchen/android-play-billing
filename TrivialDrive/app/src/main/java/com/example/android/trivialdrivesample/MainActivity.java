@@ -92,6 +92,8 @@ import java.util.List;
  * we have to apply its effects to our world and consume it. This
  * is also very important!
  */
+
+//Jason
 public class MainActivity extends Activity implements IabBroadcastListener,
         OnClickListener {
     // Debug tag, for logging
