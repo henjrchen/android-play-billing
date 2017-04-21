@@ -41,6 +41,7 @@ import com.example.android.trivialdrivesample.util.Purchase;
 import java.util.ArrayList;
 import java.util.List;
 
+//jason version1
 /**
  * Example game using in-app billing version 3.
  *
